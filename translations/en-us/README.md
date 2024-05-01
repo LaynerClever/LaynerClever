@@ -1,6 +1,6 @@
 <p align="center">
   <span>English</span> |
-  <a href="https://github.com/LaynerClever/LaynerClever/tree/main/translations/en-us/README.md">Português</a>
+  <a href="https://github.com/LaynerClever/LaynerClever/tree/main/README.md">Português</a>
 </p>
 
 👋 Hey, this is Layner!

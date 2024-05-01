@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/LaynerClever/LaynerClever/tree/main/README.md">English</a> |
+  <a href="https://github.com/LaynerClever/LaynerClever/tree/main/translations/en-us/README.md">English</a> |
   <span>Português</span>
 </p>
 
