@@ -13,4 +13,4 @@ Inovação não é apenas parte do meu trabalho; é minha paixão. Acredito que 
 Estou sempre à procura de novos desafios e adoro colaborar com pessoas interessantes e projetos empolgantes. Se você tem uma ideia que pode mudar o mundo, ou apenas torná-lo um pouco mais divertido, me dê um toque!
 
 ### 📬 Entre em Contato
-Fique à vontade para me pingar aqui no GitHub ou mandar um alô pelo [seu_email@exemplo.com]. Vamos falar sobre como podemos fazer coisas incríveis juntos!
+Fique à vontade para me pingar aqui no GitHub ou mandar um alô pelo layner@esolution.com.br. Vamos falar sobre como podemos fazer coisas incríveis juntos!
