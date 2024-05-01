@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://github.com/LaynerClever/LaynerClever/tree/main/README.md">English</a> |
+  <span>Português</span>
+</p>
+
 👋 Hey, aqui é o Layner! 
 
 🚀 Sou C.O.O. e sócio na eSolution, onde lideramos a inovação tecnológica para revolucionar o turismo e a hospitalidade no Brasil. Mas fora do escritório, me transformo em um desenvolvedor ávido que ama brincar com código e explorar novas tecnologias.
